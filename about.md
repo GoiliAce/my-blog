@@ -2,11 +2,11 @@
 title: Colophon
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
+excerpt: "About this site"
 comments: false
 ---
 
-I'm Hung, i'm a lonely electric pole in crowded city.
+I'm Hung, i'm a lonely electric pole in crowded city. i love cat, mashmallow and Ca Hoi Hoang band. i don't have a dream but i wish everyone in this world to be happy
 
 **may u needs ✨**
 
